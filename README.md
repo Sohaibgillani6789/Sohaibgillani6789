@@ -1,7 +1,6 @@
 <p align="center">
-  <img src="https://github.com/MarceloPrado00/MarceloPrado00/assets/72216811/83d6e8c7-cf1c-4e76-812f-4056cd7c74fb" alt="pixel-animation" width="600" />
+  <img src="https://your-hosted-gif-link.gif" alt="Pixel Art Animation" width="600" />
 </p>
-
 
 
 👋 Hey there, I'm [Sohaib] — Crafting Code & 3D Experiences on the Web
