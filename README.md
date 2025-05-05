@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.tenor.com/9nqYyF4G2iYAAAAC/pixel-art-computer-aesthetic.gif" alt="Pixel Art Computer" width="500" />
+  <img src="https://your-hosted-gif-link.gif" alt="Pixel Art Animation" width="600" />
 </p>
 
 👋 Hey there, I'm [Sohaib] — Crafting Code & 3D Experiences on the Web
