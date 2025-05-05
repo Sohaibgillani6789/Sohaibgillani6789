@@ -1,7 +1,6 @@
 <p align="center">
-  <img src="https://your-hosted-gif-link.gif" alt="Pixel Art Animation" width="600" />
+  <img src="https://drive.google.com/uc?export=view&id=1AbCDEFGHIJKLMNOP" alt="My Pixel Art GIF" width="600" />
 </p>
-
 
 👋 Hey there, I'm [Sohaib] — Crafting Code & 3D Experiences on the Web
 🌍 Software Engineer | 🎮 3D Web Developer | 🕹️ Three.js Enthusiast
