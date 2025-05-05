@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://drive.google.com/uc?export=view&id=1AbCDEFGHIJKLMNOP" alt="My Pixel Art GIF" width="600" />
+  <img src="https://media.tenor.com/9nqYyF4G2iYAAAAC/pixel-art-computer-aesthetic.gif" alt="Pixel Art Computer" width="500" />
 </p>
 
 👋 Hey there, I'm [Sohaib] — Crafting Code & 3D Experiences on the Web
