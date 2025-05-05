@@ -1,6 +1,6 @@
-<p align="center">
-  <img src="https://your-hosted-gif-link.gif" alt="Pixel Art Animation" width="600" />
-</p>
+
+![tt](https://github.com/user-attachments/assets/d9258a2a-8cf5-43b5-9581-7dded93dcc18)
+
 
 👋 Hey there, I'm [Sohaib] — Crafting Code & 3D Experiences on the Web
 🌍 Software Engineer | 🎮 3D Web Developer | 🕹️ Three.js Enthusiast
